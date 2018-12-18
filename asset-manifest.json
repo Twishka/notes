@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.dbd9e5cc.chunk.css",
-  "main.js": "/static/js/main.1253546e.chunk.js",
-  "main.js.map": "/static/js/main.1253546e.chunk.js.map",
-  "static/js/1.4fe77597.chunk.js": "/static/js/1.4fe77597.chunk.js",
-  "static/js/1.4fe77597.chunk.js.map": "/static/js/1.4fe77597.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/OpenSans-Light.ttf": "/static/media/OpenSans-Light.1bf71be1.ttf",
-  "static/css/main.dbd9e5cc.chunk.css.map": "/static/css/main.dbd9e5cc.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.9e695d6b8f95056af8b0b6d8d42117e3.js": "/precache-manifest.9e695d6b8f95056af8b0b6d8d42117e3.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/notes/static/css/main.26923d4c.chunk.css",
+  "main.js": "/notes/static/js/main.d389f04f.chunk.js",
+  "main.js.map": "/notes/static/js/main.d389f04f.chunk.js.map",
+  "static/js/1.ee54deec.chunk.js": "/notes/static/js/1.ee54deec.chunk.js",
+  "static/js/1.ee54deec.chunk.js.map": "/notes/static/js/1.ee54deec.chunk.js.map",
+  "runtime~main.js": "/notes/static/js/runtime~main.1291e1b6.js",
+  "runtime~main.js.map": "/notes/static/js/runtime~main.1291e1b6.js.map",
+  "static/media/OpenSans-Light.ttf": "/notes/static/media/OpenSans-Light.1bf71be1.ttf",
+  "static/css/main.26923d4c.chunk.css.map": "/notes/static/css/main.26923d4c.chunk.css.map",
+  "index.html": "/notes/index.html",
+  "precache-manifest.b0c8e8c98dff14e535ecfd8f0078c387.js": "/notes/precache-manifest.b0c8e8c98dff14e535ecfd8f0078c387.js",
+  "service-worker.js": "/notes/service-worker.js"
 }
